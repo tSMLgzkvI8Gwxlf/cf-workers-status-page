@@ -11,7 +11,7 @@ settings:
   monitorLabelNotOperational: 'Not Operational'
   monitorLabelNoData: 'No data'
   dayInHistogramNoData: 'No data'
-  dayInHistogramOperational: 'All good'
+  dayInHistogramOperational: '所有良好'
   dayInHistogramNotOperational: ' incident(s)' # xx incident(s) recorded
 
 monitors:
